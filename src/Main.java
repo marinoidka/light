@@ -4,9 +4,10 @@ import java.util.Arrays;
 
 class Main {
 
+    public static boolean isGreenLight = false;
+
     public static void main(String[] args) {
 
-        boolean isGreenLight = false;
 
         int[] speeds = {0, 6, 9};
 
